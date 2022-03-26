@@ -1,0 +1,2 @@
+D:\C#\Class dan Object 21.11.4493\Taxi 21.11.4493\Taxi 21.11.4493\bin\Debug\Taxi 21.11.4493.exe.config
+D:\C#\Class dan Object 21.11.4493\Taxi 21.11.4493\Taxi 21.11.4493\obj\Debug\Taxi 21.11.4493.csprojResolveAssemblyReference.cache
