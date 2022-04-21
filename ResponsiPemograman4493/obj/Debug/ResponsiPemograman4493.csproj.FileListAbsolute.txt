@@ -1,0 +1,6 @@
+D:\C#\Responsi\ResponsiPemograman4493\ResponsiPemograman4493\bin\Debug\ResponsiPemograman4493.exe.config
+D:\C#\Responsi\ResponsiPemograman4493\ResponsiPemograman4493\bin\Debug\ResponsiPemograman4493.exe
+D:\C#\Responsi\ResponsiPemograman4493\ResponsiPemograman4493\bin\Debug\ResponsiPemograman4493.pdb
+D:\C#\Responsi\ResponsiPemograman4493\ResponsiPemograman4493\obj\Debug\ResponsiPemograman4493.csprojResolveAssemblyReference.cache
+D:\C#\Responsi\ResponsiPemograman4493\ResponsiPemograman4493\obj\Debug\ResponsiPemograman4493.exe
+D:\C#\Responsi\ResponsiPemograman4493\ResponsiPemograman4493\obj\Debug\ResponsiPemograman4493.pdb
